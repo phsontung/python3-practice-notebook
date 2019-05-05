@@ -1,3 +1,3 @@
 # Summary
 
-Repository with notkebook for practice python3
+Repository with notebook for practice python3
